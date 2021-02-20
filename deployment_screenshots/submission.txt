@@ -1,1 +1,10 @@
-Submission notes are in the README.MD file :) 
+Git Repository:
+https://github.com/CurtBryan/project_submission_ch2
+
+EB URL: 
+http://cb3-project-submission-ch2-dev.us-east-1.elasticbeanstalk.com/
+
+EB TEST URL (this is a link for an image that will not be taken down at random :) ): 
+http://cb3-project-submission-ch2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=http://http.cat/200
+
+Will send 404 error if you give an invalid url for images as well!
